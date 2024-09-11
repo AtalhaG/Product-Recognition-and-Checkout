@@ -1,10 +1,10 @@
-Ürün Tanıma ve Satın Alma  
-Bu proje, kameradan alınan görüntülerdeki ürünleri tanıyıp kullanıcıya satın alma işlemini kolaylaştıran bir sistemidir. Görüntü işleme ve derin öğrenme tekniklerini kullanarak, ürünleri tespit eder, tanımlar ve ardından satın alma  işlemlerini otomatikleştirir.
+Product Recognition and Purchasing  
+This project is a system that recognises products in images taken from the camera and facilitates the purchasing process for the user. Using image processing and deep learning techniques, it detects and identifies products and then automates the purchasing process.
 
-Kullanılan Teknolojiler 
+Technologies Used 
 
-Python: Projenin ana programlama dili.
+Python: The main programming language of the project.
 
-OpenCV: Görüntü işleme için kullanıldı. 
+OpenCV: Used for image processing. 
 
-YOLO: Ürün tanıma ve sınıflandırma için kullanılan derin öğrenme modeli.
+YOLO: Deep learning model used for product recognition and classification.
