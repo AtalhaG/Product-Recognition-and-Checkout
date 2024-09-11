@@ -8,3 +8,4 @@ Python: The main programming language of the project.
 OpenCV: Used for image processing. 
 
 YOLO: Deep learning model used for product recognition and classification.
+
