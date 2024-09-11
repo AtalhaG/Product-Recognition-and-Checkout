@@ -37,8 +37,6 @@ def product_finder():
         
     return alinaUrun
 
-connect()
-product_finder()
 
 
 
